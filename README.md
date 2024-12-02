@@ -8,4 +8,6 @@
 
 
 ## Certificate 
+- PCCP LV3
 - 정보처리기사
+- SQLD
